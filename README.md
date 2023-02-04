@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world
+
+- 👋 I'm Isabella Molterer
+- 👩‍💻 I'm a Web Developer based in Salzburg, Austria
+- ✨I'm passionate about coding, painting and reading
 
 <!--
 **isabella-molterer/isabella-molterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
